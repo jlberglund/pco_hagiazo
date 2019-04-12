@@ -1,24 +1,14 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a developing project for local churches using Planning Center Online, especially the People app. The purpose is to easily clean/format data in Planning Center. This includes:
 
-Things you may want to cover:
+* Cleaning names (i.e. with proper casing)
+* Cleaning addresses with SmartyStreets
+* Formatting phone numbers to a common format
 
-* Ruby version
+Besides this, it'd be interesting to get some insight on Planning Center data, looking for patterns and pointing out potential data entry issues.
 
-* System dependencies
+## Getting Started
 
-* Configuration
+We'll need to include details on getting started with the app later.
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
